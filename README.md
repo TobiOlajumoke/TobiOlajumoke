@@ -1,6 +1,6 @@
 ![23_37 _ waneella on Patreon](https://user-images.githubusercontent.com/82091923/188926596-4793a951-e50f-4d53-997a-250cb8c7525d.gif)
 <h1 align="center">Hi 👋, I'm Tobi Olajumoke</h1>
-<h3 align="center">I'm a fullstack designer and a DevOps engineer who uses tools to help businesses in development processes by focusing on Continuous integration (CI) and continuous delivery (CD), minimizing waste, and optimizing for speed, cost and ease of delivery which helps to increase customer satisfaction.</h3>
+<h3 align="center">I'm a DevOps engineer who uses tools to help businesses in development processes by focusing on Continuous integration (CI) and continuous delivery (CD), minimizing waste, and optimizing for speed, cost and ease of delivery which helps to increase customer satisfaction.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiolajumoke&label=Profile%20views&color=0e75b6&style=flat" alt="tobiolajumoke" /> </p>
 
