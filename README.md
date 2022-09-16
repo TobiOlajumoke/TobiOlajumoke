@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Olajumoketobi01@gmail.com**
 
-- ⚡ Fun fact **I love chess and learning new tecnologies**
+- ⚡ Fun fact **I love chess and learning new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
