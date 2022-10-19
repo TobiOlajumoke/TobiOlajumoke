@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiolajumoke&label=Profile%20views&color=0e75b6&style=flat" alt="tobiolajumoke" /> </p>
 <p align="left"> <a href="https://twitter.com/3abuza" target="blank"><img src="https://img.shields.io/twitter/follow/3abuza?logo=twitter&style=for-the-badge" alt="3abuza" /></a> </p>
 
-- 🌱 I’m currently learning **Automation and Artificial Intelligence, Microservices Architecture**
+- 🌱 I’m currently learning **Automation, Artificial Intelligence and Microservices Architecture**
 
 - 💬 Ask me about **Continous intergration and deployment and anything,software and product desgins**
 
