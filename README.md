@@ -12,8 +12,7 @@
 
 - 📫How to reach me:![Whatsapp](https://wa.me/08022877843)
 
-## 🤝 Let's connect
-<h3 align="left">📫 How to reach me:</h3>
+<h3 align="left">🤝 Let's connect</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tobi-olajumoke/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
 <a href="mailto:olajumoketoby@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
