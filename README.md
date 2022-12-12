@@ -1,4 +1,4 @@
-![devopsmeme](https://media.tenor.com/KkerOljBwakAAAAd/computer-nerd.gif)
+![devopsmeme](https://i.pinimg.com/originals/d4/8f/f4/d48ff412a005460775821c7228666aa6.gif)
 <h1 align="center">Hi 👋, I'm Tobi Olajumoke</h1>
 <h3 align="center">I'm a DevOps engineer who levergages tools to help businesses scale up and focus more on ensuring customers stay satisfied.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,10 +10,11 @@
 
 - ⚡ Fun fact **I love chess ♟️ and music 🎧**
 
+- 📫How to reach me:![Whatsapp](https://wa.me/08022877843)
 
+## 🤝 Let's connect
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a aria-label="Chat on WhatsApp" href="https://wa.me/08022877843"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" />  
 <a href="https://www.linkedin.com/in/tobi-olajumoke/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
 <a href="mailto:olajumoketoby@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 <a href="https://twitter.com/3abuza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3abuza" height="30" width="40" /></a>
