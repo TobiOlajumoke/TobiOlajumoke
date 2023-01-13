@@ -41,11 +41,6 @@
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
   
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiolajumoke&show_icons=true&locale=en&layout=compact" alt="tobiolajumoke" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobiolajumoke&show_icons=true&locale=en" alt="tobiolajumoke" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobiolajumoke&" alt="tobiolajumoke" /></p>
 
 
