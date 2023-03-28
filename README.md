@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Devops Culture , Continuous Integration and Continuous Deployments**
+- 💬 Ask me about **DevOps Culture , Continuous Integration and Continuous Deployments**
 
 - ⚡ Fun fact **I love chess ♟️ and music 🎧**
 
