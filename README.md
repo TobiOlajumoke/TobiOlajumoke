@@ -1,6 +1,6 @@
 ![devopsmeme](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)
 <h1 align="center">Hi 👋, I'm Tobi Olajumoke</h1>
-<h3 align="center">I'm a DevOps engineer who uses technology to assist organizations in scaling up so that they can continue to focus on customer satisfaction.</h3>
+<h3 align="center">I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiolajumoke&label=Profile%20views&color=0e75b6&style=flat" alt="tobiolajumoke" /> </p>
 
